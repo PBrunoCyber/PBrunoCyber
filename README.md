@@ -1,4 +1,4 @@
-# <p align="left">Hi there, i'm Paulo Bruno 👋</p>
+#  <p align="left"> Hi there, i'm Paulo Bruno 👋</p>
 
 ![Custom badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Custom badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Custom badge](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white) ![Custom badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Custom badge](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
@@ -11,7 +11,7 @@
 <li>🤓 My expiriences: https://www.linkedin.com/in/paulo-bruno-1a14a3188/<br>
 </ul>
 
-# Ps.: I need to say something in portuguese (sorry microsoft, google or others haha)
+# 😮‍💨 Ps.: I need to say something in portuguese (sorry microsoft, google or others haha)
  
 **Estou decepcionado com você minha querida informática, mas não irei te abandonar!**    
  
