@@ -7,7 +7,7 @@
 <li>🌱 I’m currently learning: <b>Flutter with Dart and Spring with java</b></li><br>
 <li>🤔 I’m looking for help with <b>jobs</b></li><br>
 <li>😄 Pronouns: <b>It</b></li><br>
-<li>⚡ Fun fact: <b>my grandma is virgin (ps.: read the text below to understand)</b></li><br>
+<li>⚡ Fun fact: <b>my grandma is virgin</b></li><br>
 <li>🤓 My expiriences: https://www.linkedin.com/in/paulo-bruno-1a14a3188/<br>
 </ul>
 
