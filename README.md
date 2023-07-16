@@ -6,7 +6,7 @@
 <ul> <li>🔭 I’m currently working on <b><a href="https://www.ibge.gov.br"/>IBGE</a></b></li><br>
 <li>🌱 I’m currently learning: <b>React Js and Django <3</b></li><br>
 <li>🤔 I’m looking for help with <b>jobs</b></li><br>
-<li>🤓 My expiriences: https://www.linkedin.com/in/paulo-bruno-1a14a3188/<br>
+<li>🤓 My expiriences: https://www.linkedin.com/in/paulo-bruno-1a14a318/<br>
 </ul>
 
 
