@@ -3,9 +3,8 @@
 ![Custom badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Custom badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Custom badge](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white) ![Custom badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Custom badge](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Custom badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Custom badge](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 
-<ul> <li>🔭 I’m currently working on <b><a href="https://www.ibge.gov.br"/>IBGE</a></b></li><br>
-<li>🌱 I’m currently learning: <b>React Js and Django <3</b></li><br>
-<li>🤔 I’m looking for help with <b>jobs</b></li><br>
+<ul> <li>🔭 I’m currently working on <b>A2PRIME</b></li><br>
+<li>🌱 I’m currently learning: <b>Nestjs <3</b></li><br>
 <li>🤓 My expiriences: https://www.linkedin.com/in/paulo-bruno-1a14a3188/<br>
 </ul>
 
