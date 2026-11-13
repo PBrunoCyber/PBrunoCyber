@@ -4,7 +4,7 @@
 
 
 <li>🌱 I’m currently learning: <b>English <3</b></li><br>
-<li>🤓 My expiriences: https://www.linkedin.com/in/paulo-bruno-fernandes-barros-noleto-1a14a3188/<br>
+<li>🤓 My expiriences: https://www.linkedin.com/in/paulo-bruno-1a14a3188/<br>
 </ul>
 
 
